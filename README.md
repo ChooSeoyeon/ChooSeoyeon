@@ -30,7 +30,7 @@
     <tr border: none;>
       <td><b>이름</b></td>
       <td><b>설명</b></td>
-      <td><b>역힐</b></td>
+      <td><b>역할</b></td>
       <td><b>비고</b></td>
     </tr>
   </thead>

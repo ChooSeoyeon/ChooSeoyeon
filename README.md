@@ -24,12 +24,12 @@
     <tr>
       <td>대학생 연합 IT벤처창업 동아리 <a href="https://sopt.org/">SOPT</a> 30th</td>
       <td>2022.03 - 2022.08</td>
-      <td>서버 파트</td>
+      <td>서버 파트, <a href="https://github.com/30th-THE-SOPT-Server-Part/SeoYeon">Node.js 세미나 레포</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/ChooSeoyeon">	Google Developer Student Clubs Hongik.Univ</a></td>
+      <td>Google Developer Student Clubs Hongik.Univ</td>
       <td>2022.09 - 현재 </td>
-      <td>백엔드 파트</td>
+      <td>백엔드 파트, <a href="https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/ChooSeoyeon">Spring 스터디 레포</a></td>
     </tr>
   </tbody>
 </table>

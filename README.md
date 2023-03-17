@@ -14,7 +14,7 @@
     <tr>
       <td>마포구 스마트 코딩 아카데미 강사</a></td>
       <td>2021.01 - 2022.02</td>
-      <td>C, C++, Python, Arduino 담당</td>
+      <td>C, C++, Python, Arduino 교육 담당</td>
     </tr>
     <tr>
       <td><a href="https://www.dreamclass.org/index.do">삼성 드림클래스</a> 대학생 멘토 </td>

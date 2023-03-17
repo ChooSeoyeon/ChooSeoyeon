@@ -1,7 +1,13 @@
 > Seoyeon Choo   
 > Hongik University, Dept. Computer Engineering
 
-### Experiences
+### 🙋 Tell about me
+- `컴퓨터공학`, `교육`, `법`을 배우며 `IT 기술`을 세상에 널리 알리기로 결심했습니다.
+- 기술은 교육을 통해 모두에게 `평등`하게 제공되어야 한다고 믿습니다.
+- `백엔드 개발`, `DB 설계`와 `클라우드 인프라 구축`에 관심이 많습니다.
+- 개발을 주제로 한 `토론`을 환영합니다.
+
+### 📚 Experiences
 <table>
   <thead align="center">
     <tr>
@@ -34,7 +40,7 @@
   </tbody>
 </table>
 
-### Team Projects
+### 🧑‍🤝‍🧑 Team Projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -72,9 +78,9 @@
   </tbody>
 </table>
 
-### Interest
+### 🛠️ Tech Stack
 Language </br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
 Framework </br>

@@ -17,12 +17,12 @@
       <td>C, C++, Python, Arduino 담당</td>
     </tr>
     <tr>
-      <td>삼성 드림클래스 대학생 멘토</a></td>
+      <td><a href="https://www.dreamclass.org/index.do">삼성 드림클래스</a> 대학생 멘토 </td>
       <td>2022.03 - 2022.08</td>
       <td>코딩 교육 및 담임 담당</td>
     </tr>
     <tr>
-      <td>대학생 연합 IT벤처창업 동아리 <a href="https://sopt.org/">SOPT 30th</a></td>
+      <td>대학생 연합 IT벤처창업 동아리 <a href="https://sopt.org/">SOPT</a> 30th</td>
       <td>2022.03 - 2022.08</td>
       <td>서버 파트</td>
     </tr>

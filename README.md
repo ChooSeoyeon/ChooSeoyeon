@@ -73,7 +73,7 @@
       <td><a href="https://github.com/Beach-Combine/Backend">BeachCombine</a></td>
       <td>AI가 분석하는 해양환경봉사 기록</td>
       <td>백엔드 리드, AI, 기획, PM </td>
-      <td>KRWC 2위 수상, <br> Google Solution Challenge 출품 예정 </td>
+      <td><a href="https://gdsc.community.dev/events/details/developer-student-clubs-sookmyung-womens-university-presents-2023-gdsc-kr-winter-cup-bonseon/">KRWC</a> 2위 수상, <br> Google Solution Challenge 출품 예정 </td>
     </tr>
   </tbody>
 </table>

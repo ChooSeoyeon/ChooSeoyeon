@@ -48,7 +48,7 @@
     <tr>
       <td><a href="https://github.com/HICC-Bootcamp/2022-1-Happiness-Moneybox/tree/develop">Happiness Moneybox</a></td>
       <td>행복저금통 챌린지</td>
-      <td>백엔드 리드, 기획, PM</td>
+      <td>백엔드, 프론트, 기획, PM</td>
       <td></td>
     </tr>
     <tr>

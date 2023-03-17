@@ -12,6 +12,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>마포구 스마트 코딩 아카데미 강사</a></td>
+      <td>2022.03 - 2022.08</td>
+      <td>C, C++, Python, Arduino 담당</td>
+    </tr>
+    <tr>
+      <td>삼성 드림클래스 대학생 멘토</a></td>
+      <td>2022.03 - 2022.08</td>
+      <td>코딩 교육 및 담임 담당</td>
+    </tr>
+    <tr>
       <td>대학생 연합 IT벤처창업 동아리 <a href="https://sopt.org/">SOPT 30th</a></td>
       <td>2022.03 - 2022.08</td>
       <td>서버 파트</td>

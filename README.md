@@ -38,7 +38,7 @@
       <td>백엔드 파트, <a href="https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/ChooSeoyeon">Spring 스터디 레포</a></td>
     </tr>
     <tr>
-      <td>Google Developer Student Clubs Hongik.Univ OC</td>
+  <td><a href="https://www.gdschongik.com/">Google Developer Student Clubs Hongik.Univ OC</a></td>
       <td>2023.03 - 현재 </td>
       <td>교육 컨텐츠 개발팀</a></td>
     </tr>

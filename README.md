@@ -33,9 +33,14 @@
       <td>서버 파트, <a href="https://github.com/30th-THE-SOPT-Server-Part/SeoYeon">Node.js 세미나 레포</a></td>
     </tr>
     <tr>
-      <td>Google Developer Student Clubs Hongik.Univ</td>
-      <td>2022.09 - 현재 </td>
+      <td>Google Developer Student Clubs Hongik.Univ 1st</td>
+      <td>2022.09 - 2023.02 </td>
       <td>백엔드 파트, <a href="https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/ChooSeoyeon">Spring 스터디 레포</a></td>
+    </tr>
+    <tr>
+      <td>Google Developer Student Clubs Hongik.Univ OC</td>
+      <td>2023.03 - 현재 </td>
+      <td>교육 컨텐츠 개발팀</a></td>
     </tr>
   </tbody>
 </table>
@@ -101,4 +106,6 @@ DevOps </br>
  <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
 
-![ChooSeoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChooSeoyeon&show_icons=true&theme=dark)   
+![ChooSeoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChooSeoyeon&show_icons=true&theme=dark)
+
+<!-- ![Choo000407's PS](http://mazandi.herokuapp.com/api?handle=choo000407&theme=warm) -->

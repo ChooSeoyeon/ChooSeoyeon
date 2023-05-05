@@ -57,7 +57,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/HICC-Bootcamp/2022-1-Happiness-Moneybox/tree/develop">Happiness Moneybox</a></td>
+      <td>
+        <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/HappinessMoneybox.JPG?raw=true" width="23px" height="23px"/>
+        <a href="https://github.com/HICC-Bootcamp/2022-1-Happiness-Moneybox/tree/develop">Happiness Moneybox</a>
+       </td>
       <td>행복저금통 챌린지</td>
       <td>백엔드, 프론트, 기획, PM</td>
       <td></td>
@@ -85,7 +88,7 @@
         <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/BeachCombine.png?raw=true" width="23px" height="23px"/>
         <a href="https://github.com/Beach-Combine/Backend">BeachCombine</a>
       </td>
-      <td>AI가 분석하는 해양환경봉사 기록</td>
+      <td>AI로 분석하는 해양환경봉사 기록 서비스</td>
       <td>백엔드 리드, AI, 기획, PM </td>
       <td><a href="https://gdsc.community.dev/events/details/developer-student-clubs-sookmyung-womens-university-presents-2023-gdsc-kr-winter-cup-bonseon/">KRWC</a> 42팀 중 2위(최우수상) 수상, <br> <a href="https://developers.google.com/community/gdsc-solution-challenge?hl=ko">Google Solution Challenge</a> Global Top 100 선정, 현재 결승 준비 중 </td>
     </tr>

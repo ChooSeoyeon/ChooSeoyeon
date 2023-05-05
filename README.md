@@ -63,19 +63,28 @@
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TeamRecorDream/RecorDream-Server/tree/develop">RecorDream</a></td>
+      <td>
+        <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/RecorDream.png?raw=true" width="23px" height="23px"/>
+        <a href="https://github.com/TeamRecorDream/RecorDream-Server/tree/develop">RecorDream</a>
+      </td>
       <td>꿈 기록 아카이빙 서비스</td>
       <td>백엔드</td>
       <td>SOPT 30th AppJam 우수상</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Att-ies/backend">Atties</a></td>
+      <td>
+        <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/Atties.png?raw=true" width="23px" height="23px"/>
+        <a href="https://github.com/Att-ies/backend">Atties</a>
+      </td>
       <td>졸업작품 거래 플랫폼</td>
       <td>백엔드</td>
       <td><a href="https://attiess.netlify.app/begin">서비스 중</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Beach-Combine/Backend">BeachCombine</a></td>
+      <td>
+        <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/BeachCombine.png?raw=true" width="23px" height="23px"/>
+        <a href="https://github.com/Beach-Combine/Backend">BeachCombine</a>
+      </td>
       <td>AI가 분석하는 해양환경봉사 기록</td>
       <td>백엔드 리드, AI, 기획, PM </td>
       <td><a href="https://gdsc.community.dev/events/details/developer-student-clubs-sookmyung-womens-university-presents-2023-gdsc-kr-winter-cup-bonseon/">KRWC</a> 42팀 중 2위(최우수상) 수상, <br> <a href="https://developers.google.com/community/gdsc-solution-challenge?hl=ko">Google Solution Challenge</a> Global Top 100 선정, 현재 결승 준비 중 </td>

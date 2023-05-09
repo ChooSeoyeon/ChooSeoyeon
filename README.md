@@ -34,13 +34,18 @@
     </tr>
     <tr>
       <td>Google Developer Student Clubs Hongik.Univ 1st</td>
-      <td>2022.09 - 2023.02 </td>
+      <td>2022.09 - 2023.02</td>
       <td>백엔드 파트, <a href="https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/ChooSeoyeon">Spring 스터디 레포</a></td>
     </tr>
     <tr>
-  <td><a href="https://www.gdschongik.com/">Google Developer Student Clubs Hongik.Univ OC</a></td>
-      <td>2023.03 - 현재 </td>
-      <td>교육 컨텐츠 개발팀</a></td>
+      <td><a href="https://www.gdschongik.com/">Google Developer Student Clubs Hongik.Univ OC</a></td>
+      <td>2023.03 - 현재</td>
+      <td>교육 컨텐츠 개발팀(웹/백엔드)</a></td>
+    </tr>
+    <tr>
+      <td>전국 연합 IT동아리 <a href="https://dddstudy.medium.com/">DDD</a> 9기</td>
+      <td>2023.05 - 현재</td>
+      <td>백엔드 파트</a></td>
     </tr>
   </tbody>
 </table>

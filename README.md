@@ -45,7 +45,7 @@
     <tr>
       <td>전국 연합 IT동아리 <a href="https://dddstudy.medium.com/">DDD</a> 9기</td>
       <td>2023.05 - 현재</td>
-      <td>백엔드 파트</a></td>
+      <td>서버 파트</a></td>
     </tr>
   </tbody>
 </table>

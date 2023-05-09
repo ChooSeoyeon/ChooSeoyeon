@@ -28,12 +28,12 @@
       <td>코딩 교육 및 담임 담당</td>
     </tr>
     <tr>
-      <td>대학생 연합 IT벤처창업 동아리 <a href="https://sopt.org/">SOPT</a> 30th</td>
+      <td>대학생 연합 IT벤처창업 동아리 <a href="https://sopt.org/">SOPT</a> 30기</td>
       <td>2022.03 - 2022.08</td>
       <td>서버 파트, <a href="https://github.com/30th-THE-SOPT-Server-Part/SeoYeon">Node.js 세미나 레포</a></td>
     </tr>
     <tr>
-      <td>Google Developer Student Clubs Hongik.Univ 1st</td>
+      <td>Google Developer Student Clubs Hongik.Univ</td>
       <td>2022.09 - 2023.02</td>
       <td>백엔드 파트, <a href="https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/ChooSeoyeon">Spring 스터디 레포</a></td>
     </tr>

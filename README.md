@@ -39,12 +39,12 @@
     </tr>
     <tr>
       <td><a href="https://www.gdschongik.com/">Google Developer Student Clubs Hongik.Univ OC</a></td>
-      <td>2023.03 - 현재</td>
+      <td>2023.03 - 2023.07 </td>
       <td>교육 컨텐츠 개발팀(웹/백엔드)</a></td>
     </tr>
     <tr>
       <td>전국 연합 IT동아리 <a href="https://dddstudy.medium.com/">DDD</a> 9기</td>
-      <td>2023.05 - 현재</td>
+      <td>2023.05 - 2023.08 </td>
       <td>서버 파트</a></td>
     </tr>
   </tbody>
@@ -96,6 +96,15 @@
       <td>AI로 분석하는 해양환경봉사 기록 서비스</td>
       <td>백엔드 리드, AI, 기획, PM </td>
       <td><a href="https://gdsc.community.dev/events/details/developer-student-clubs-sookmyung-womens-university-presents-2023-gdsc-kr-winter-cup-bonseon/">KRWC</a> 42팀 중 2위(최우수상) 수상, <br> <a href="https://developers.google.com/community/gdsc-solution-challenge?hl=ko">Google Solution Challenge</a> Global Top 100 선정</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/Lastpang.jpeg?raw=true" width="23px" height="23px"/>
+        <a href="https://github.com/kamonemothon/lastpang-backend-new">정각</a>
+      </td>
+      <td>출발시간 기반 일정 및 모임 관리 서비스</td>
+      <td>백엔드</td>
+      <td>카카오모빌리티 해커톤 '<a href="https://slashpage.com/nemothon">네모톤</a>' 본선 진출</td>
     </tr>
   </tbody>
 </table>

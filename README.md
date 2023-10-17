@@ -18,7 +18,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>마포구 스마트 코딩 아카데미 강사</a></td>
+      <td><a href="https://www.youtube.com/watch?v=zThAElcGpa4">마포구 스마트 코딩 아카데미</a> 강사</td>
       <td>2021.01 - 2022.02</td>
       <td>C, C++, Python, Arduino 교육 담당</td>
     </tr>
@@ -30,7 +30,7 @@
     <tr>
       <td>대학생 연합 IT벤처창업 동아리 <a href="https://sopt.org/">SOPT</a> 30기</td>
       <td>2022.03 - 2022.08</td>
-      <td>서버 파트, <a href="https://github.com/30th-THE-SOPT-Server-Part/SeoYeon">Node.js 세미나 레포</a></td>
+      <td>서버 파트, <a href="https://github.com/30th-THE-SOPT-Server-Part/SeoYeon">Node.js 스터디 레포</a></td>
     </tr>
     <tr>
       <td>Google Developer Student Clubs Hongik.Univ</td>

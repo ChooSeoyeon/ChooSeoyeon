@@ -63,15 +63,6 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/HappinessMoneybox.JPG?raw=true" width="23px" height="23px"/>
-        <a href="https://github.com/HICC-Bootcamp/2022-1-Happiness-Moneybox/tree/develop">Happiness Moneybox</a>
-       </td>
-      <td>행복저금통 챌린지</td>
-      <td>백엔드, 프론트, 기획, PM</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
         <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/RecorDream.png?raw=true" width="23px" height="23px"/>
         <a href="https://github.com/TeamRecorDream/RecorDream-Server/tree/develop">RecorDream</a>
       </td>
@@ -112,7 +103,7 @@
         <a href="https://github.com/DDD-Community/KDKD-Server">U'R</a>
       </td>
       <td>드래그 앤 드랍 기능이 탑재된 url 관리 서비스</td>
-      <td>백엔드</td>
+      <td>백엔드 리드</td>
       <td></td>
     </tr>
   </tbody>

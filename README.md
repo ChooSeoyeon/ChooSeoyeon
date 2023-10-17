@@ -106,6 +106,15 @@
       <td>백엔드</td>
       <td>카카오모빌리티 해커톤 '<a href="https://slashpage.com/nemothon">네모톤</a>' 본선 진출</td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/ChooSeoyeon/ChooSeoyeon/blob/main/image/Kdkd.jpeg?raw=true" width="23px" height="23px"/>
+        <a href="https://github.com/DDD-Community/KDKD-Server">U'R</a>
+      </td>
+      <td>드래그 앤 드랍 기능이 탑재된 url 관리 서비스</td>
+      <td>백엔드</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 

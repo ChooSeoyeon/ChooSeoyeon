@@ -1,7 +1,7 @@
 > Seoyeon Choo   
 > Hongik University, Dept. Computer Engineering
 
-### 🙋 Tell about me
+### 🙋 About me
 - `컴퓨터공학`, `교육`, `법`을 배우며 `IT 기술`을 세상에 널리 알리기로 결심했습니다.
 - 기술은 교육을 통해 모두에게 `평등`하게 제공되어야 한다고 믿습니다.
 - `백엔드 개발`, `DB 설계`와 `클라우드 인프라 구축`에 관심이 많습니다.

@@ -1,5 +1,5 @@
 > Seoyeon Choo   
-> Hongik University, Dept. Computer Engineering
+> Hongik University, Dept. Computer Engineering (2019.03 ~ 2024.02)
 
 ### 🙋 About me
 - `컴퓨터공학`, `교육`, `법`을 배우며 `IT 기술`을 세상에 널리 알리기로 결심했습니다.

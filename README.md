@@ -83,7 +83,7 @@
     <tr>
       <td><a href="https://www.woowacourse.io/">우아한테크코스</a> 6기</td>
       <td>2024.02 - 2024.11</td>
-      <td>BE 파트</a></td>
+      <td>백엔드 파트</a></td>
     </tr>
   </tbody>
 </table>

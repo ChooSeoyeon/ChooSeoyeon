@@ -7,7 +7,40 @@
 - `백엔드 개발`, `DB 설계`와 `클라우드 인프라 구축`에 관심이 많습니다.
 - 개발을 주제로 한 `토론`을 환영합니다.
 
-### 📚 Experiences
+### 🏛️ Work Experiences
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>회사</b></td>
+      <td><b>직무</b></td>
+      <td><b>기간</b></td>
+      <td><b>소속/업무</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>에프아이솔루션</td>
+      <td>백엔드 학교연계인턴십</td>
+      <td>2023.06 - 2023.12</td>
+      <td>사내 콜센터 백오피스 유지보수</td>
+    </tr>
+    <tr>
+      <td>당근마켓</td>
+      <td>백엔드 인턴</td>
+      <td>2024.12 - 2025.02</td>
+      <td>운영개발팀 소속</td>
+    </tr>
+    <tr>
+      <td>Delivery Hero SE</td>
+      <td>백엔드</td>
+      <td>2025.06 - </td>
+      <td>QuickCommerce 소속</td>
+    </tr>
+  </tbody>
+</table>
+
+### 📚 Personal Experiences
 <table>
   <thead align="center">
     <tr>
@@ -39,18 +72,23 @@
     </tr>
     <tr>
       <td><a href="https://www.gdschongik.com/">Google Developer Student Clubs Hongik.Univ OC</a></td>
-      <td>2023.03 - 2023.07 </td>
+      <td>2023.03 - 2023.07</td>
       <td>교육 컨텐츠 개발팀(웹/백엔드)</a></td>
     </tr>
     <tr>
       <td>전국 연합 IT동아리 <a href="https://dddstudy.medium.com/">DDD</a> 9기</td>
-      <td>2023.05 - 2023.08 </td>
+      <td>2023.05 - 2023.08</td>
       <td>서버 파트</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.woowacourse.io/">우아한테크코스</a> 6기</td>
+      <td>2024.02 - 2024.11</td>
+      <td>BE 파트</a></td>
     </tr>
   </tbody>
 </table>
 
-### 🧑‍🤝‍🧑 Team Projects
+### 🧑‍🤝‍🧑 Personal Projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -104,6 +142,22 @@
       </td>
       <td>드래그 앤 드랍 기능이 탑재된 url 관리 서비스</td>
       <td>백엔드 리드</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Crew-Wiki/backend">크루위키</a>
+      </td>
+      <td>우아한테크코스 크루들의 재밌는 정보를 아카이빙 하기 위해 만든 서비스</td>
+      <td>백엔드</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/woowacourse-teams/2024-chongdae-market">총대마켓</a>
+      </td>
+      <td>지역 기반 공동구매 서비스</td>
+      <td>백엔드</td>
       <td></td>
     </tr>
   </tbody>

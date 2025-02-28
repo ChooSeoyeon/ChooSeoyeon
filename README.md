@@ -115,7 +115,7 @@
       </td>
       <td>졸업작품 거래 플랫폼</td>
       <td>백엔드</td>
-      <td><a href="https://attiess.netlify.app/begin">서비스 중</td>
+      <td></td>
     </tr>
     <tr>
       <td>
@@ -150,7 +150,7 @@
       </td>
       <td>우아한테크코스 크루들의 재밌는 정보를 아카이빙 하기 위해 만든 서비스</td>
       <td>백엔드</td>
-      <td></td>
+      <td><a href="https://www.crew-wiki.site/wiki/%EB%8C%80%EB%AC%B8">서비스 중</td>
     </tr>
     <tr>
       <td>
@@ -158,7 +158,7 @@
       </td>
       <td>지역 기반 공동구매 서비스</td>
       <td>백엔드</td>
-      <td></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.zzang.chongdae">서비스 중</td>
     </tr>
   </tbody>
 </table>
